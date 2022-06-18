@@ -1,0 +1,11 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+z_deploy.txt
+z_progress.txt
+#Hardhat files
+cache
+artifacts
+deployments
